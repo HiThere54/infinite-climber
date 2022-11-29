@@ -1,0 +1,8 @@
+[gd_scene format=2]
+
+[node name="main_timer" type="Timer"]
+wait_time = 8.0
+autostart = true
+__meta__ = {
+"_editor_description_": ""
+}
